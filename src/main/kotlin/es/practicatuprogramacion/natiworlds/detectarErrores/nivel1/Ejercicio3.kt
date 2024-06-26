@@ -1,6 +1,6 @@
 package es.practicatuprogramacion.natiworlds.detectarErrores.nivel1
 
-fun suma(a: Int, b: Int): Int {
+fun longitudCadena(cadena: String): Int {
     // Encuentra y corrige el error
-    return a - b
+    return cadena.length()
 }

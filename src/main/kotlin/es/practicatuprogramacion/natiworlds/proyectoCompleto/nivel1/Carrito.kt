@@ -1,6 +1,5 @@
 package es.practicatuprogramacion.natiworlds.es.practicatuprogramacion.natiworlds.proyectoCompleto.nivel1
 
-import es.practicatuprogramacion.natiworlds.es.practicatuprogramacion.natiworlds.detectarErrores.nivel1.Producto
 
 class Carrito {
     private val productos = mutableListOf<Producto>()

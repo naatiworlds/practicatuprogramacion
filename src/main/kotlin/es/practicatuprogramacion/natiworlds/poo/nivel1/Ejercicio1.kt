@@ -1,4 +1,5 @@
-package es.practicatuprogramacion.natiworlds.es.practicatuprogramacion.natiworlds.detectarErrores.nivel1
+package es.practicatuprogramacion.natiworlds.detectarErrores.nivel1
+
 
 class Persona(val nombre: String, var edad: Int)
 

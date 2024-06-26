@@ -1,3 +1,4 @@
+/*
 package es.practicatuprogramacion.natiworlds.es.practicatuprogramacion.natiworlds.completarCodigo.nivel1
 
 import es.practicatuprogramacion.natiworlds.completarCodigo.nivel1.saludo
@@ -38,4 +39,4 @@ fun main() {
     println("[>] Introduce el ejercicio a ejecutar: ")
     val ejercicio = readlnOrNull()
     ejercicio?.let { menu(it) }
-}
+}*/

@@ -1,6 +1,6 @@
 package es.practicatuprogramacion.natiworlds.detectarErrores.nivel1
 
-fun suma(a: Int, b: Int): Int {
+fun obtenerUltimoElemento(lista: List<Int>): Int {
     // Encuentra y corrige el error
-    return a - b
+    return lista[lista.size]
 }

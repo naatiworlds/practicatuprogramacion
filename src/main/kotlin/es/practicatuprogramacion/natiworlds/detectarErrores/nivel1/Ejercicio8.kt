@@ -1,6 +1,6 @@
 package es.practicatuprogramacion.natiworlds.detectarErrores.nivel1
 
-fun suma(a: Int, b: Int): Int {
+fun generarSaludo(nombre: String): String {
     // Encuentra y corrige el error
-    return a - b
+    return "Hola, $nombre" + "!"
 }
