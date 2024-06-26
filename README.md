@@ -1,46 +1,66 @@
-# Practica tu programación
+# ¡Practica tu Programación!
 
 ![banner del curso](src/main/resources/banner.jpg)
 
 ---
 
-por ➡️ Natalia cortés ( Natiworlds )
+**Por** ➡️ **Natalia Cortés (Natiworlds)**
 
 ---
 
-En este repositorio aprenderás las bases de la programación tanto funcional como orientada a objetos con kotlin, el funcionamiento es muy sencillo, hay varios apartados
-1. [Completar Código](#Completar-Código)
-2. [Detectar Errores](#Detectar-Errores)
-3. [Poo](#poo) ( Programación Orientada Objetos )
-4. [Proyecto Completo](#programa-completo) ( En este último veremos como se estructura un programa completo en kotlin según las bases aprendidas en el grado superior de Desarrollo De Aplicaciones Web )
+Bienvenido/a a este repositorio donde aprenderás las bases de la programación tanto funcional como orientada a objetos con Kotlin. Este curso está estructurado en varias secciones para facilitar tu aprendizaje.
+
+## Contenidos
+1. [Completar Código](#completar-código)
+2. [Detectar Errores](#detectar-errores)
+3. [Programación Orientada a Objetos (Poo)](#programación-orientada-a-objetos-poo)
+4. [Proyecto Completo](#proyecto-completo)
+
+---
 
 ## Completar Código
-En esta categoría se presenta torzos de códigos a los que le falta algo, tu deber es ver que es lo que falta y completarlo de forma que cumpla su cometido.
+En esta sección, se presentan fragmentos de código a los que les falta alguna parte. Tu objetivo es identificar lo que falta y completarlo para que funcione correctamente.
 
-Completado: 
+### Estado de Compleción
+- **Primer Nivel**: [Completado ✅]
+- **Segundo Nivel**: [En proceso 🔄]
 
-* Primer nivel [*]
-* Segundo nivel [En proceso]
+---
 
 ## Detectar Errores
-En este apartado hay código completo, pero que contiene algún error en alguna de sus líneas. Tu deber es detectar donde está el error y solucionarlo.
+Aquí encontrarás código completo que contiene errores en alguna de sus líneas. Tu tarea es identificar y corregir estos errores.
 
-Completado:
+### Estado de Compleción
+- **Primer Nivel**: [Completado ✅]
+- **Segundo Nivel**: [En proceso 🔄]
 
-* Primer nivel [*]
-* Segundo nivel [En proceso]
+---
 
-## Poo
-En este apartado veremos todos los conceptos que rodean a la programación orientada a objetos. 
+## Programación Orientada a Objetos (Poo)
+Esta sección cubre todos los conceptos relacionados con la programación orientada a objetos.
 
-Completado:
+### Estado de Compleción
+- **Primer Nivel**: [Completado ✅]
+- **Segundo Nivel**: [En proceso 🔄]
 
-* Primer nivel [*]
-* Segundo nivel [En proceso]
+---
 
-## Programa Completo
-Por último armaremos un programa completo, con gui, salida a consola y además estrucutraremos el proyecto con una base de datos relacional, según lo visto en desarrollo de aplicaciones web ( grado superior )
+## Proyecto Completo
+En esta sección, construiremos un programa completo con interfaz gráfica (GUI), salida a consola y estructura de proyecto con una base de datos relacional, siguiendo las bases aprendidas en el grado superior de Desarrollo de Aplicaciones Web.
 
-Completado:
+### Estado de Compleción
+- **Primer Nivel**: [Este apartado será el último en presentarse ⏳]
 
-* Primer nivel [Este apartado será el último en presentarse]
+---
+
+## Cómo Contribuir
+¡Nos encantaría tu ayuda para mejorar este proyecto! Si tienes ideas, sugerencias o encuentras algún error, por favor, abre un issue o un pull request.
+
+---
+
+## Contacto
+Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de mis redes sociales o correo electrónico.
+
+---
+
+¡Gracias por unirte a este viaje de aprendizaje! 🚀
